@@ -1,4 +1,2 @@
 ini adalah file cv
-- perusahaan pertama gojek
-- perushaan kedua google
-- perusahaan ketiga shopee
+
