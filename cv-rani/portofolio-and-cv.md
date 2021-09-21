@@ -29,7 +29,7 @@
    git add README.md
    git commit -m "update master pertama"
 10. git merge cv
-11. gitu push -u origin master
-
+11. git push -u origin master
 ```
-![result](gbr.png)
+
+![result](gbr.PNG)
