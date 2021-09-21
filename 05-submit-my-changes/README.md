@@ -7,8 +7,8 @@ Jawaban :
 ![nomor1](nomor1.png)
 2. git clone https://github.com/ranimp/tech4impact-students-bio.git
 3. cd tech4impact-students-bio ->
-git branch ranimeliyana
-4. git checkout ranimeliyana
+git branch rani-meliyana
+4. git checkout rani-meliyana
 5. vim ranimeliyana.md
 6. mengisi file md
 ![nomor6](nomor6.png)
